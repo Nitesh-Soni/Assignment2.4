@@ -1,5 +1,5 @@
 
-1. Explain hadoop in layman's term
+1. Explain hadoop in layman's term?
 
 Hadoop is a complete eco-system of open source projects that provide us the framework to deal with big data. Let’s start by brainstorming the possible challenges of dealing with big data (on traditional systems) and then look at the capability of Hadoop solution.
 
@@ -23,9 +23,7 @@ Here is how Hadoop solves all of these issues :
 
 4. Difficulty in program query building  : Queries in Hadoop are as simple as coding in any language. You just need to change the way of thinking around building a query to enable parallel processing.
 
-
-
-    2. Explain the components of Hadoop framework
+   2. Explain the components of Hadoop framework?
 
 At its core, Hadoop is comprised of four things:
 
